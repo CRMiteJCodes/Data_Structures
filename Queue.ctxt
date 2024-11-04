@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Queue
+comment1.params=size
+comment1.target=Queue(int)
+comment2.params=ele
+comment2.target=void\ enqueue(int)
+comment3.params=
+comment3.target=int\ dequeue()
+comment4.params=
+comment4.target=int\ peep()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
