@@ -1,0 +1,19 @@
+# Set the default behavior to automatically normalize line endings.
+* text=auto
+
+# Specify text files
+*.java text eol=lf
+*.txt text eol=lf
+
+# Handle specific file types with their line endings
+*.sh text eol=lf
+*.py text eol=lf
+
+# Add additional file types as needed
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+# If you want to ensure certain binary files do not get converted
+*.class binary
+*.ctxt binary
